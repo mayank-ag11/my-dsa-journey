@@ -1,0 +1,38 @@
+Enter the choice:
+Enter the data value:
+Enter the choice:
+Enter the data value:
+Enter the choice:
+Enter the data value:
+Enter the choice:
+Enter the data value:
+Enter the choice:
+Enter the data value:
+Enter the choice:
+Enter the data value:
+Enter the choice:
+Enter the data value:
+	Value 5 node is at position 5 in the linked list.
+	Difference in its allocated memory to that of current head : 2
+Enter the choice:
+Enter the data value:
+	Value 10 node is at position 4 in the linked list.
+	Difference in its allocated memory to that of current head : -6
+Enter the choice:
+Enter the data value:
+	Value 40 node is at position 1 in the linked list.
+	Difference in its allocated memory to that of current head : 0
+Enter the choice:
+Enter the data value:
+	Value 30 node is at position 2 in the linked list.
+	Difference in its allocated memory to that of current head : -2
+Enter the choice:
+Enter the data value:
+	Value 20 node is at position 3 in the linked list.
+	Difference in its allocated memory to that of current head : -4
+Enter the choice:
+Enter the data value:
+	Cannot find any such node in the linked-list
+Enter the choice:
+	Wrong Input.
+Enter your choice again:

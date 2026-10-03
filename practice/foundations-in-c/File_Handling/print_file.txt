@@ -1,0 +1,3 @@
+This is line one
+Hello, welcome to programming
+This is last line of file.
