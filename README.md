@@ -24,6 +24,7 @@ The `courses/` directory currently includes material from:
 
 The `practice/` directory contains solutions from:
 
+- Leetcode/Neetcode
 - CodeStudio
 - GeeksforGeeks
 - HackerEarth
